@@ -2,5 +2,6 @@
   "pVersion": "1.0",
   "url": "https://chrunos.com/download-music-from-tidal/",
   "notes": "fix file name.",
+  "API": "https://tidal.401658.xyz/track/?id=",
   "release": "May 17, 2024"
 }
