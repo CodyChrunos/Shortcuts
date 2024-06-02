@@ -1,5 +1,9 @@
 {
   "version": "2.5",
+  "pVersion": "1.0",
+  "aVersion": "1.0",
+  "key": "https://spotifymate.com",
+  "api": "https://spotifymate.com/action",
   "url": "https://chrunos.com/spotify-shortcuts-ios/",
   "notes": "Minor improvements",
   "release": "April 15, 2024"
