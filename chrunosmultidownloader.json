@@ -1,6 +1,7 @@
 {
   "version": "1.5",
   "aVersion": "1.4",
+  "pVersion": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Fix Instagram downloads.",
   "api": "https://co.wuk.sh/api/json",
