@@ -1,5 +1,8 @@
 {
   "version": "1.3",
+  "aVersion": "1.0",
+  "pVersion": "1.0",
+  "api": "https://co.wuk.sh/api/json",
   "url": "https://chrunos.com/download-tiktok-video-without-watermark/",
   "notes": "Download TikTok videos in 1080p, 720P, or MP3, add support for TikTok Slidshow",
   "release": "May 28, 2024"
