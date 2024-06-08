@@ -2,6 +2,6 @@
   "version": "1.4",
   "url": "https://chrunos.com/download-youtube-shorts/#youtube+shorts+downloader",
   "api": "https://co.wuk.sh/api/json",
-  "notes": "Fix no audio issue.",
+  "notes": "Fix error and add audio downloading option",
   "release": "June 8, 2024"
 }
