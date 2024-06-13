@@ -1,9 +1,9 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "aVersion": "1.4",
   "pVersion": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
-  "notes": "Fix Instagram downloads.",
+  "notes": "Fix errors",
   "api": "https://co.wuk.sh/api/json",
-  "release": "April 22, 2024"
+  "release": "June 12, 2024"
 }
