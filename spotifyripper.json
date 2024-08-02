@@ -1,7 +1,7 @@
 {
-  "version": "1.1",
-  "api": "https://www.bhandarimilan.info.np/spotify?url=https://open.spotify.com/track/",
-  "url": "https://chrunos.com/download-spotify-songs-to-mp3/",
+  "version": "1.2",
+  "api": "https://spotifydownloaders.com/api/spotify?url=https://open.spotify.com/track/",
+  "url": "https://www.icloud.com/shortcuts/0cf0a315692149f8ae9cc75999c8c5b4",
   "notes": "Download Spotify track to MP3 320 kbps.",
   "release": "May 28, 2024"
 }
