@@ -5,5 +5,6 @@
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Fix errors",
   "api": "https://co.wuk.sh/api/json",
+  "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "release": "June 12, 2024"
 }
