@@ -1,7 +1,7 @@
 {
   "version": "1.5",
   "url": "https://chrunos.com/download-youtube-shorts/#youtube+shorts+downloader",
-  "api": "https://co.wuk.sh/api/json",
+  "api": "https://api.cobalt.tools/api/json",
   "notes": "Fix error and add audio downloading option",
   "release": "August 7, 2024"
 }
