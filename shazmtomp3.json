@@ -1,7 +1,7 @@
 {
   "version": "2.4",
   "pVersion": "1.0",
-  "api": "https://co.wuk.sh/api/json",
+  "api": "https://api.cobalt.tools/api/json",
   "search": "https://www.youtube.com/results?search_query=",
   "url": "https://chrunos.com/shazam-downloader/",
   "notes": "Fix api quota error.",
