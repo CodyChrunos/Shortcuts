@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "url": "https://chrunos.com/download-youtube-shorts/#youtube+shorts+downloader",
   "api": "https://api.cobalt.tools/api/json",
   "notes": "Fix error and add audio downloading option",
