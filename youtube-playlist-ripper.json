@@ -4,6 +4,6 @@
   "pVersion": "1.0",
   "url": "https://chrunos.com/youtube-shortcuts-download/#youtube+playlist+ripper",
   "notes": "Fix errors",
-  "api": "https://co.wuk.sh/api/json",
+  "api": "https://api.cobalt.tools/api/json",
   "release": "July 7, 2024"
 }
