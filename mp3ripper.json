@@ -1,6 +1,7 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "url": "https://chrunos.com/mp3-ripper-shortcut/",
+  "api": "https://api.cobalt.tools/api/json",
   "notes": "initial release.",
-  "release": "May 3, 2024"
+  "release": "August 17, 2024"
 }
