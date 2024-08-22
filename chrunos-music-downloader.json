@@ -1,0 +1,9 @@
+{
+  "version": "1.1",
+  "aVersion": "1.0",
+  "api": "https://lucida.to/api/load?url=%2Fapi%2Ffetch%2Fstream%3Furl%3D",
+  "csrf": "https://lucida.to/?url=",
+  "url": "https://chrunos.com/premium-shortcuts/",
+  "notes": "Add option to select MP3 320 kbps.",
+  "release": "August 21, 2024"
+}
