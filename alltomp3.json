@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "pVersion": "1.0",
+  "aVersion": "1.0",
+  "command": "-vn -ar 44100 -ac 2 -b:a 192k",
+  "url": "https://chrunos.com/spotify-album-downloader/#get+latest+version",
+  "notes": "Minor improvements",
+  "release": "October 11, 2024"
+}
