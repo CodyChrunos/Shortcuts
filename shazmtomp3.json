@@ -1,9 +1,10 @@
 {
   "version": "2.6",
   "pVersion": "1.0",
-  "api": "https://api.cobalt.tools/api/json",
+  "api": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=mp3&iframe_source=https://www.y2down.app,&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
   "search": "https://www.youtube.com/results?search_query=",
+  "progress": "https://p.oceansaver.in/ajax/progress.php?id=id",
   "url": "https://chrunos.com/shazam-downloader/",
   "notes": "Fix api error.",
-  "release": "August 17, 2024"
+  "release": "November 6, 2024"
 }
