@@ -2,8 +2,8 @@
   "version": "1.4",
   "aVersion": "1.0",
   "pVersion": "1.0",
-  "api": "https://api.cobalt.tools/api/json",
+  "api": "https://snaptik.app/",
   "url": "https://chrunos.com/tiktok-ripper/",
   "notes": "Download TikTok videos in 1080p, 720P, or MP3, add support for TikTok Slidshow",
-  "release": "August 18, 2024"
+  "release": "November 7, 2024"
 }
