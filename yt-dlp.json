@@ -4,10 +4,7 @@
   "pVersion": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "https://api.cobalt.tools/api/json",
-  "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
-  "task2": "&iframe_source=https://www.y2down.app,&url=",
-  "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
-  "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
+  "file1": "yt-dlp --get-filename -f mp4 -o  "%(title)s.%(ext)s"",
+  "file2": "yt-dlp --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"",
   "release": "June 12, 2024"
 }
