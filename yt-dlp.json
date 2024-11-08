@@ -5,6 +5,6 @@
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
   "file1": "yt-dlp --get-filename -f mp4 -o",
-  "file2": "yt-dlp --extract-audio --audio-format mp3 -o",
+  "file2": "yt-dlp --get-filename --extract-audio --audio-format mp3 -o",
   "release": "November 8, 2024"
 }
