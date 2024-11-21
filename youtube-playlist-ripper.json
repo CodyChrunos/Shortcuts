@@ -1,9 +1,9 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "aVersion": "1.0",
   "pVersion": "1.0",
   "url": "https://chrunos.com/youtube-shortcuts-download/#youtube+playlist+ripper",
   "notes": "Fix errors",
-  "api": "https://cobalt-api.kwiatekmiki.com",
+  "api": "https://api.cobalt.tools/api/json",
   "release": "July 7, 2024"
 }
