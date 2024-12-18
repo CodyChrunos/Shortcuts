@@ -2,7 +2,7 @@
   "version": "1.8",
   "url": "https://chrunos.com/view-instagram-stroy-anonymously/",
   "api": "https://www.save-free.com/process",
-  "cook": "{"loggedIn":"true","cookie":"csrftoken=IL04J5gO8DU8JssTAcyXI9GVf4ffv42F; ds_user_id=49379440378; wd=580x640; sessionid=49379440378%3A9OJiw3JzWmcilz%3A14%3AAYe9dreN8gfY7aLj72F2Q0N-Z52h6pd7aDibHdy6dw; ig_nrcb=1; mid=Z2J4JAAAAAFAl_CQnSk4DT3gVTJO; datr=4xlPZ6l8YSS9-NbYegUzpVb7; ig_did=EF3488D2-5039-416E-B607-47D848E9CC63; ps_l=1; ps_n=1; "}",
+  "cook": ""loggedIn":"true","cookie":"csrftoken=IL04J5gO8DU8JssTAcyXI9GVf4ffv42F; ds_user_id=49379440378; wd=580x640; sessionid=49379440378%3A9OJiw3JzWmcilz%3A14%3AAYe9dreN8gfY7aLj72F2Q0N-Z52h6pd7aDibHdy6dw; ig_nrcb=1; mid=Z2J4JAAAAAFAl_CQnSk4DT3gVTJO; datr=4xlPZ6l8YSS9-NbYegUzpVb7; ig_did=EF3488D2-5039-416E-B607-47D848E9CC63; ps_l=1; ps_n=1; "",
   "notes": "Fix no image problem.",
   "release": "December 18, 2024"
 }
