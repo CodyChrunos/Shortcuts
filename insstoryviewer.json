@@ -1,7 +1,7 @@
 {
   "version": "1.8",
   "url": "https://chrunos.com/view-instagram-stroy-anonymously/",
-  "userid": "https://www.instagram.com/web/search/topsearch/?query=",
+  "userid": "https://i.instagram.com/api/v1/user/web_profile_info/?username=",
   "api": "https://www.instagram.com/graphql/query/?query_hash=15463e8449a83d3d60b06be7e90627c7&variables=%7B%22reel_ids%22:%5B%22${userId}%22%5D,%22precomposed_overlay%22:false%7D",
   "cook": "%7B%22loggedIn%22%3A%22true%22%2C%22cookie%22%3A%22csrftoken%3DIL04J5gO8DU8JssTAcyXI9GVf4ffv42F%3B%20ds_user_id%3D49379440378%3B%20wd%3D580x640%3B%20sessionid%3D49379440378%253A9OJiw3JzWmcilz%253A14%253AAYe9dreN8gfY7aLj72F2Q0N-Z52h6pd7aDibHdy6dw%3B%20ig_nrcb%3D1%3B%20mid%3DZ2J4JAAAAAFAl_CQnSk4DT3gVTJO%3B%20datr%3D4xlPZ6l8YSS9-NbYegUzpVb7%3B%20ig_did%3DEF3488D2-5039-416E-B607-47D848E9CC63%3B%20ps_l%3D1%3B%20ps_n%3D1%3B%20%22%7D",
   "notes": "Fix no image problem.",
