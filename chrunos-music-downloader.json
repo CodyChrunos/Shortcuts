@@ -4,7 +4,7 @@
   "event": "https://meta.lucida.su/api/event",
   "d": "lucida.to",
   "api": "https://lucida.to/api/load?url=%2Fapi%2Ffetch%2Fstream%2Fv2",
-  "csrf": "https://lucida.to/?url=https%3A%2F%2Fplay.qobuz.com%2Ftrack%2F",
+  "csrf": "https://lucida.to/?url=",
   "url": "https://chrunos.com/premium-shortcuts/",
   "appid": "579939560",
   "secret": "fa31fc13e7a28e7d70bb61e91aa9e178",
