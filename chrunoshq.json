@@ -1,8 +1,8 @@
 {
-  "version": "1.8",
+  "version": "1.9",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "https://cobalt-api.ayo.tf/",
+  "api": "https://cobalt-api.kwiatekmiki.com/",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
-  "release": "August 12, 2024"
+  "release": "December 28, 2024"
 }
