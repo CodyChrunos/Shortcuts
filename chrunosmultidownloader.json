@@ -4,7 +4,7 @@
   "pVersion": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "https://dl.mdleung.com",
+  "api": "https://dl-api.memorybouquet.com/",
   "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
   "task2": "&iframe_source=https://www.y2down.app,&url=",
   "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
