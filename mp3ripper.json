@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "url": "https://chrunos.com/mp3-ripper-shortcut/",
-  "api": "https://cobalt-api.ayo.tf/",
+  "api": "https://dl-api.memorybouquet.com/",
   "notes": "initial release.",
   "release": "November 11, 2024"
 }
