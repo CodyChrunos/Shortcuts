@@ -12,5 +12,6 @@
   "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
   "notes": "Fix error and add audio downloading options",
   "release": "December 22, 2024",
-  "pipe": "https://inv.clovius.club/api/v1/videos/"
+  "pipe": "https://inv.clovius.club/api/v1/videos/",
+  "maxs": "https://chrunos-multi.hf.space/maxs"
 }
