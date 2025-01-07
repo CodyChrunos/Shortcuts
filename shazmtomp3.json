@@ -7,5 +7,6 @@
   "api2": "https://cobalt-api.bloat.cat/",
   "url": "https://chrunos.com/shazam-downloader/",
   "notes": "Improve song download experience.",
-  "release": "December 28, 2024"
+  "release": "December 28, 2024",
+  "msg": "dontStealMyApi"
 }
