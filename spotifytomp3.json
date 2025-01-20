@@ -7,5 +7,5 @@
   "url": "https://chrunos.com/spotify-downloader-flow/",
   "notes": "Fix download error and performance improvements",
   "release": "January 20, 2025",
-  "vercel": "https://downspotifyapis.vercel.app/api/v2/track/"
+  "data": "https://chrunos-spotifyapi.hf.space/get-track"
 }
