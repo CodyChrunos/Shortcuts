@@ -5,6 +5,7 @@
   "key": "https://spotifymate.com",
   "api": "https://spotifymate.com/action",
   "url": "https://chrunos.com/spotify-downloader-flow/",
-  "notes": "Minor improvements",
-  "release": "April 15, 2024"
+  "notes": "Fix download error and performance improvements",
+  "release": "January 20, 2025",
+  "vercel": "https://downspotifyapis.vercel.app/api/v2/track/"
 }
