@@ -3,7 +3,7 @@
   "aVersion": "1.6",
   "pVersion": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
-  "notes": "Add support for a few more sites",
+  "notes": "Fix audio download issue.",
   "api": "https://cobalt-api.kwiatekmiki.com",
   "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
   "task2": "&iframe_source=https://www.y2down.app,&url=",
