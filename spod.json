@@ -1,5 +1,6 @@
 {
   "version": "1.0",
+  "sVersion": "1.0",
   "url": "https://chrunos.com/download-spotify-podcast/",
   "note": "Initial release.",
   "api": "https://chrunos-vob.hf.space/download",
