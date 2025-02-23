@@ -2,7 +2,7 @@
   "version": "1.0",
   "api": "https://chrunos-depot.hf.space/download/track",
   "album": "https://chrunos-depot.hf.space/z_album",
-  "playlist": "https://chrunos-depot.hf.space/z_playlist"
+  "playlist": "https://chrunos-depot.hf.space/z_playlist",
   "hls": "https://chrunos-multi.hf.space/hls",
   "url": "https://chrunos.com/download-deezer-playlist/",
   "notes": "initial release.",
