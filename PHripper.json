@@ -1,7 +1,7 @@
 {
   "version": "1.4",
   "api": "https://chrunos-mmmm.hf.space/test",
-  "hls": "https://chrunos-multi.hf.space/hls",
+  "hls": "https://chrunos-mmmm.hf.space/hls",
   "url": "https://chrunos.com/pn-ripper/",
   "notes": "fix error when downloading from 4k purn.",
   "release": "Feb 22, 2025"
