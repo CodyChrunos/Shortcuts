@@ -3,7 +3,7 @@
   "pVersion": "1.0",
   "aVersion": "1.0",
   "key": "https://spotifymate.com",
-  "api": "https://spotifymate.com/action",
+  "api": "https://chrunos-depot.hf.space/spot_dl",
   "url": "https://chrunos.com/spotify-downloader-mac/",
   "notes": "Minor improvements",
   "release": "Feb 19, 2025"
