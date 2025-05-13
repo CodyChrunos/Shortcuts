@@ -4,6 +4,7 @@
   "aVersion": "1.0",
   "key": "https://chrunos-ytmsc.hf.space/match",
   "api": "https://chrunos-depot.hf.space/spot_dl",
+  "track": "https://chrunos-ytmsc.hf.space/track_dl",
   "url": "https://chrunos.com/spotify-album-downloader/#get+latest+version",
   "notes": "Minor improvements",
   "release": "May 11, 2025"
