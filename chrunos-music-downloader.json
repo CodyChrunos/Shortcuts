@@ -1,15 +1,11 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "aVersion": "1.0",
-  "event": "https://meta.lucida.su/api/event",
-  "d": "lucida.to",
-  "api": "https://lucida.to/api/load?url=%2Fapi%2Ffetch%2Fstream%2Fv2",
-  "csrf": "https://lucida.to/?url=",
-  "url": "https://chrunos.com/premium-shortcuts/",
-  "appid": "579939560",
-  "secret": "fa31fc13e7a28e7d70bb61e91aa9e178",
-  "base": "https://www.qobuz.com/api.json/0.2/",
-  "token": "yn-HVbPSnrnLazYtBbhTNCHpny-JcyE5LqrHkJnLiv047BJO2SxS_lmDVVN6UnqLv4EvA_5F-lHGY56hIgpfJg",
-  "notes": "Fix errors",
-  "release": "August 21, 2024"
+  "notes": "Fix audio download issue.",
+  "api": "https://chrunos-ytmsc.hf.space/match",
+  "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
+  "task2": "&iframe_source=https://www.y2down.app,&url=",
+  "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
+  "api2": "https://chrunos-ytmsc.hf.space/track_dl",
+  "release": "May 15, 2025",
 }
