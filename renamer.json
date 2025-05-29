@@ -1,7 +1,10 @@
 {
-  "version": "1.3",
-  "url": "https://chrunos.com/mp3-ripper-shortcut/",
-  "api": "https://cobalt-api.ayo.tf",
-  "notes": "Fix errors.",
-  "release": "Feb 14, 2025"
+  "version": "1.0",
+  "pVersion": "1.0",
+  "aVersion": "1.0",
+  "api": "https://api-j4y9j4t5n172p5p0.aistudio-app.com/v1/chat/completions",
+  "auth": "Bearer 8e77667f435d09e66f90ed6701de8be945ab72a0",
+  "url": "https://chrunos.com/ai-shortcuts",
+  "notes": "Minor improvements",
+  "release": "May 27, 2025"
 }
