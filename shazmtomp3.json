@@ -9,7 +9,7 @@
   "notes": "Improve song download experience.",
   "release": "May 4, 2025",
   "msg": "dontStealMyApi",
-  "audio": "https://velynapi.vercel.app/api/downloader/ytmp3?url=",
+  "audio": "https://chrunos-zams.hf.space/audio",
   "adapt": "https://www.youtube.com/youtubei/v1/player?key=",
   "such": "https://chrunos-ytmsc.hf.space/searcht",
   "down": "https://chrunos-ytmsc.hf.space/track_dl",
