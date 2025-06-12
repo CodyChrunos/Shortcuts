@@ -2,7 +2,7 @@
   "version": "2.0",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "http://34.107.254.11",
+  "api": "https://dwnld.nichind.dev",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "audio": "https://chrunos-mmmm.hf.space/multi",
   "release": "May 12, 2025"
