@@ -2,10 +2,10 @@
   "version": "1.2",
   "aVersion": "1.0",
   "notes": "Fix audio download issue.",
-  "api": "https://chrunos-ytmsc.hf.space/match",
+  "api": "https://chrunos-msc.hf.space/match",
   "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
   "task2": "&iframe_source=https://www.y2down.app,&url=",
   "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
-  "api2": "https://chrunos-ytmsc.hf.space/track_dl",
+  "api2": "https://chrunos-msc.hf.space/track_dl",
   "release": "May 15, 2025",
 }
