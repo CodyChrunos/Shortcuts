@@ -4,7 +4,7 @@
   "pVersion": "1.1",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for Threads.",
-  "api": "https://chrunos-mig.hf.space/multi",
+  "api": "https://chrunos-mmm.hf.space/multi",
   "task1": "https://p.oceansaver.in/ajax/download.php?button=1&start=1&end=1&format=",
   "task2": "&iframe_source=https://www.y2down.app,&url=",
   "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
