@@ -2,7 +2,7 @@
   "version": "2.1",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "https://tecuts-news.hf.space/multi",
+  "api": "http://34.107.254.11",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "audio": "https://cody1234-messy.hf.space/multi",
   "release": "July 18, 2025"
