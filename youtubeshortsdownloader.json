@@ -1,7 +1,7 @@
 {
   "version": "3.2",
   "url": "https://chrunos.com/download-youtube-shorts/#youtube+shorts+downloader",
-  "api": "https://c.blahaj.ca/",
+  "api": "https://vercel-gules-seven.vercel.app/",
   "watch": [
     "https://invidious.nerdvpn.de",
     "https://invidious.jing.rocks/",
