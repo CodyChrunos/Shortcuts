@@ -1,8 +1,8 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "api": "https://chrunos-back.hf.space/test",
   "hls": "https://chrunos-back.hf.space/hls",
   "url": "https://chrunos.com/pn-ripper/",
-  "notes": "Add support for youpurn.",
-  "release": "May 12, 2025"
+  "notes": "Fix errors.",
+  "release": "Aug 24, 2025"
 }
