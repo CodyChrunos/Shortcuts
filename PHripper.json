@@ -1,8 +1,8 @@
 {
-  "version": "1.7",
+  "version": "1.8",
   "api": "https://chrunos-back.hf.space/test",
   "hls": "https://chrunos-back.hf.space/hls",
   "url": "https://chrunos.com/pn-ripper/",
   "notes": "Fix errors.",
-  "release": "Aug 24, 2025"
+  "release": "Nov 03, 2025"
 }
