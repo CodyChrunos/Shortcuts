@@ -3,8 +3,8 @@
   "version": "1.9",
   "url": "https://chrunos.com/ultimate-media-downloader/",
   "release": "Add more sites for video and music.",
-  "ins": "http://2.56.214.74:9000/",
-  "face": "http://2.56.214.74:9000/",
+  "ins": "https://dlapi.miichelle.moe/",
+  "face": "https://dlapi.miichelle.moe/",
   "you": "https://vercel-gules-seven.vercel.app/",
   "date": "June, 26 2025"  
 }
