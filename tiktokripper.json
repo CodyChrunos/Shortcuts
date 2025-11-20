@@ -2,7 +2,7 @@
   "version": "1.7",
   "aVersion": "1.1",
   "pVersion": "1.1",
-  "api": "http://2.56.214.74:9000/",
+  "api": "https://dlapi.miichelle.moe/",
   "url": "https://chrunos.com/tiktok-ripper/",
   "notes": "Download TikTok videos in 1080p, 720P, or MP3, add support for TikTok Slidshow",
   "release": "July 17, 2025"
