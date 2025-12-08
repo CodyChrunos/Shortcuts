@@ -8,7 +8,7 @@
   "appid": "579939560",
   "secret": "fa31fc13e7a28e7d70bb61e91aa9e178",
   "base": "https://www.qobuz.com/api.json/0.2/",
-  "token": "yn-HVbPSnrnLazYtBbhTNCHpny-JcyE5LqrHkJnLiv047BJO2SxS_lmDVVN6UnqLv4EvA_5F-lHGY56hIgpfJg",
+  "token": "24C11TFdqY955_VMFQeIUgQD4Fl8LRYl3l6NupLzpbQlQ_4qOKNsIQIaIC1pWTG2UchFvaER8WN15GZCe4__-w",
   "notes": "Fix errors",
   "release": "August 21, 2024"
 }
