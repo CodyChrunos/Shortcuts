@@ -7,11 +7,11 @@
   "api2": "https://cobalt-api.kwiatekmiki.com/",
   "url": "https://chrunos.com/shazam-downloader/",
   "notes": "Improve song download experience.",
-  "release": "Nov 24, 2025",
+  "release": "Jan 18, 2026",
   "msg": "dontStealMyApi",
   "audio": "https://chrunos-zams.hf.space/audio",
   "adapt": "https://www.youtube.com/youtubei/v1/player?key=",
-  "such": "https://tecuts-ytmsc.hf.space/searcht",
+  "match": "https://match-brown.vercel.app/searcht",
   "down": "https://tecuts-ytmsc.hf.space/track_dl",
   "visitor": "CgtrT0d0bEgwSUZPZyjj1uTBBjIKCgJISxIEGgAgXg%3D%3D"
 }
