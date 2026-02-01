@@ -3,7 +3,8 @@
   "aVersion": "1.0",
   "pVersion": "1.0",
   "api": "https://cobalt-api.kwiatekmiki.com/",
+  "mp3": "https://velynapi.vercel.app/api/downloader/ytmp3?url=",
   "url": "https://chrunos.com/download-google-play-music-mp3/#youtube+music+downloader",
   "notes": "Download music from YouTube and YouTube music to MP3",
-  "release": "December 9, 2024"
+  "release": "Feb 1, 2026"
 }
