@@ -3,5 +3,7 @@
   "url": "https://chrunos.com/download-music-from-tidal/",
   "notes": "fix file name.",
   "API": "https://tidal.401658.xyz/track/?id=",
+  "track": "https://tititi-tan.vercel.app/track",
+  "album": "https://tecuts-doll.hf.space/",
   "release": "May 17, 2024"
 }
