@@ -6,6 +6,7 @@
   "api": "https://spotifymate.com/action",
   "url": "https://chrunos.com/spotify-downloader-flow/#spotify-to-mp3-shortcut",
   "notes": "Fix download error and performance improvements",
-  "release": "May 4, 2025",
-  "data": "https://chrunos-spta.hf.space/"
+  "release": "Mar 10, 2026",
+  "data": "https://chrunos-spta.hf.space/",
+  "fetch": "https://chrunos-spta.hf.space/fetch"
 }
