@@ -4,6 +4,6 @@
   "request": "https://chrunos-sound.hf.space/",
   "url": "https://chrunos.com/download-soundcloud-music/#soundcloud+downloader+shortcut",
   "notes": "minor improvements.",
-  "playlist": "https://chrunos-bulk.hf.space/api/playlist",
+  "playlist": "https://chrunos-bulk.hf.space/api/list",
   "release": "Mar 11, 2026"
 }
