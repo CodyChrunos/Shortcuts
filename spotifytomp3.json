@@ -3,10 +3,11 @@
   "pVersion": "1.0",
   "aVersion": "1.0",
   "key": "https://spotifymate.com",
-  "api": "https://spotifymate.com/action",
+  "api": "https://chrunos-spta.hf.space/info",
+  "download": "https://chrunos-spta.hf.space/download",
   "url": "https://chrunos.com/spotify-downloader-flow/#spotify-to-mp3-shortcut",
   "notes": "Fix download error and performance improvements",
-  "release": "Mar 10, 2026",
+  "release": "Mar 22, 2026",
   "data": "https://chrunos-spta.hf.space/",
   "fetch": "https://chrunos-spta.hf.space/fetch"
 }
