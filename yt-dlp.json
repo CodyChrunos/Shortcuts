@@ -1,10 +1,10 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "aVersion": "1.0",
   "pVersion": "1.0",
   "url": "https://chrunos.com/ultimate-downloader-shortcuts/#yt-dlp+shortcut",
   "notes": "Add support for a few more sites",
   "file1": "yt-dlp --get-filename -f mp4 -o",
   "file2": "yt-dlp --get-filename --extract-audio --audio-format mp3 -o",
-  "release": "January 9, 2025"
+  "release": "Mar 29, 2026"
 }
