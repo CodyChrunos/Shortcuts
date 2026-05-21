@@ -3,7 +3,7 @@
   "aVersion": "1.7",
   "pVersion": "1.1",
   "url": "https://chrunos.com/chrunos-downloader/",
-  "notes": "Add support for Threads.",
+  "notes": "Fix YouTube downloading.",
   "api": "https://dwnld.nichind.dev",
   "task1": "https://p.lbserver.xyz/ajax/download.php?copyright=0&format=",
   "task2": "&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpAskAXQg6MY",
