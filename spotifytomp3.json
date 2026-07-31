@@ -3,7 +3,7 @@
   "pVersion": "1.0",
   "aVersion": "1.0",
   "key": "https://spotifymate.com",
-  "api": "https://chrunos-spta.hf.space/info",
+  "api": "https://chrunos.top/api/v4/download/",
   "download": "https://chrunos-spta.hf.space/download",
   "url": "https://chrunos.com/spotify-downloader-flow/#spotify-to-mp3-shortcut",
   "notes": "Fix download error and performance improvements",
