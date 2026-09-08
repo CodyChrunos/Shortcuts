@@ -5,6 +5,7 @@
   "note": "Minor improvements.",
   "search": "https://saavn.sumit.co/api/search/songs?query=",
   "song": "https://saavn.sumit.co/api/songs/",
+  "songs": "https://saavn.sumit.co/api/songs",
   "date": "September, 7 2026",
   "version": "1.2"
 }
