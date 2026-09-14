@@ -6,7 +6,7 @@
   "notes": "Fix YouTube downloading.",
   "api": "https://dwnld.nichind.dev",
   "task1": "https://p.lbserver.xyz/ajax/download.php?copyright=0&format=",
-  "task2": "&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpAskAXQg6MY",
+  "task2": "https://p.savenow.to/api/v2/download?format=mp3&url=",
   "progress": "https://p.lbserver.xyz/ajax/progress.php?id=",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "release": "June 13, 2025",
