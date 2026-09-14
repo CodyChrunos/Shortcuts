@@ -9,7 +9,7 @@
   "task2": "https://p.savenow.to/api/v2/download?format=mp3&url=",
   "progress": "https://p.lbserver.xyz/ajax/progress.php?id=",
   "api2": "https://velynapi.vercel.app/api/downloader/ytmp3?url=",
-  "release": "June 13, 2025",
+  "release": "September 13, 2026",
   "adapt": "https://www.youtube.com/youtubei/v1/player?key=",
   "match": "https://chrunos.top/convert?platform=youtube&url="  
 }
