@@ -1,10 +1,10 @@
 {
   "api": "https://chrunos-back.hf.space/maxs",
-  "version": "2.2",
+  "version": "2.3",
   "url": "https://chrunos.com/ultimate-media-downloader/",
-  "release": "Add more sites for video and music.",
+  "release": "Add support for Threads",
   "ins": "https://dwnld.nichind.dev/",
   "face": "https://dwnld.nichind.dev/",
   "you": "https://velynapi.vercel.app/api/downloader/",
-  "date": "Apr, 3 2026"  
+  "date": "September, 15 2026"  
 }
