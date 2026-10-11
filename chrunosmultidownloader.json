@@ -6,7 +6,7 @@
   "notes": "Fix YouTube downloading.",
   "api": "https://dwnld.nichind.dev",
   "task1": "https://p.lbserver.xyz/ajax/download.php?copyright=0&format=",
-  "new": "https://p.lbserver.xyz/api/v2/download.php?copyright=0&format=",
+  "new": "https://p.savenow.to/api/v2/download.php?copyright=0&format=",
   "task2": "https://p.savenow.to/api/v2/download?format=mp3&url=",
   "progress": "https://p.lbserver.xyz/ajax/progress.php?id=",
   "api2": "https://velynapi.vercel.app/api/downloader/ytmp3?url=",
