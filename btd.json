@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "aVersion": "1.1",
+  "pVersion": "1.1",
+  "api": "https://hhaoqin-app.hf.space/",
+  "url": "https://chrunos.com/tiktok-ripper/",
+  "fetch": "https://chrunos-back.hf.space/api/playlist?url=",
+  "notes": "Download TikTok videos in bulk",
+  "release": "Oct 13, 2026"
+}
