@@ -1,9 +1,9 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "api": "https://chrunos-back.hf.space/maxs",
   "request": "https://hhaoqin-app.hf.space/",
   "url": "https://chrunos.com/download-soundcloud-music/#soundcloud+downloader+shortcut",
   "notes": "minor improvements.",
   "playlist": "https://chrunos.top/api/list",
-  "release": "Mar 11, 2026"
+  "release": "Oct 25, 2026"
 }
