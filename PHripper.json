@@ -1,7 +1,7 @@
 {
   "version": "2.0",
-  "api": "https://chrunos-back.hf.space/test",
-  "hls": "https://chrunos-back.hf.space/hls",
+  "api": "https://tecuts-chrunos.hf.space/test",
+  "hls": "https://tecuts-chrunos.hf.space/hls",
   "url": "https://chrunos.com/pn-ripper/",
   "notes": "Fix pornhub, add local hls downloads.",
   "release": "Apr 20, 2026"
